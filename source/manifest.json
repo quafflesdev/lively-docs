@@ -1,0 +1,11 @@
+{
+  "actions": {
+    "search": "boolean",
+    "push": "boolean",
+    "notify": "boolean"
+  },
+  "scope": {
+    "eventapi": "boolean",
+    "basicuser": "boolean"
+  }
+}
