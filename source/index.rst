@@ -3,9 +3,8 @@ Welcome to lively-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   manifest.rst
+   plugin
 
 
 Indices and tables

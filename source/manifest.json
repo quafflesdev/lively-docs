@@ -6,6 +6,10 @@
   },
   "scope": {
     "eventapi": "boolean",
+    "restapi": "boolean",
     "basicuser": "boolean"
-  }
+  },
+  "displayname": "string",
+  "description": "string",
+  "keywords": "string"
 }
