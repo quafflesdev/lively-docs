@@ -5,6 +5,7 @@ Welcome to lively-docs's documentation!
    :maxdepth: 2
 
    plugin
+   rest
 
 
 Indices and tables
